@@ -2,6 +2,13 @@
 # The first section is added by the project author (Robert Harrow)
 
 .DS_Store
+data/bom.movie_gross.csv
+data/im.db
+data/rt.movie_info.tsv
+data/rt.reviews.tsv
+data/tmdb.movies.csv
+data/tn.movie_budgets.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
