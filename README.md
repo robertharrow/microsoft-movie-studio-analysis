@@ -76,9 +76,10 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Robert Harrow at rharrow928@gmail.com.
 
 ### Repository Structure
-
+```
 ├── data
 ├── images
 ├── README.md
 ├── presentation.pdf
 └── microsoft_movie_studio_analysis.ipynb
+```
