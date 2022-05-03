@@ -47,7 +47,7 @@ Steven Spielberg produced more blockbusters between 2010 and 2019 than any other
 ![Top Directors](images/top-directors.png)
 
 
-A movie's budget and its worlwide box office performence were strongly correlated. Looking at the typical budget of a blockbuster, Microsoft should expect to spend $38M on each feature film that it hopes to reach this coveted status.
+A movie's budget and its worlwide box office performence were strongly correlated. Looking at the typical budget of a blockbuster, Microsoft should expect to spend $35M on each feature film that it hopes to reach this coveted status.
 
 ![Production budget by status](images/production-budget-by-status.png)
 ![Revenue by genre](images/revenue-budget-correlation.png)
@@ -57,7 +57,7 @@ A movie's budget and its worlwide box office performence were strongly correlate
 
 This analysis leads to three recommendations for launching Microsoft's new movie studio:
 
-* Spend at least $38M per film. It's clear from the data that both profit and worlwide revenue have a strong positive correlation with a movie's production budget. The median production budget of a blockbuster was $38M, while the median production budget of a movie considered to be a "Flop" was just $TK
+* Spend at least $35M per film. It's clear from the data that both profit and worlwide revenue have a strong positive correlation with a movie's production budget. The median production budget of a blockbuster was $35M, while the median production budget of a movie considered to be a "Flop" was just $TK
 * Work with proven directors like Steven Spielberg. Mr. Spielberg along with directors like Clint Eastwood and Jon Chou stand head and shoulders above the rest in terms of consistently producing blockbusters. Their names carry weight and are clearly a draw for audiences.
 * Focus on Animated movies. These films produced the highest returns at the box office. If the brand wants to focus on live action films, then Adventure, Sci-Fi and Action movies are the next best thing.
 
