@@ -17,13 +17,13 @@ This data was combined with a dataset from The-Numbers.com, which included figur
 
 To avoid noise from smaller productions, the dataset excluded independent films (defined as movies with a production budget below $2,000,000).
 
-The combined dataset was able to match 1,179 films from 2010 through 2019.
+The combined dataset was able to match 1,167 films from 2010 through 2019.
 
 ## Methods
 
 The project involved creating new data features and bucketing performance of different genres, directors and spending levels into these different feature categories.
 
-First, the project defined movie status categories that depend on how much worldwide revenue each film produced relative to its production budget. These definitions were obtained from [Quora](https://www.quora.com/What-are-the-criteria-for-a-movie-hit-super-hit-blockbuster-and-flop).
+First, the project defined movie status categories that depend on how much worldwide revenue each film produced relative to its production budget. These definitions were obtained from <a href="https://www.quora.com/What-are-the-criteria-for-a-movie-hit-super-hit-blockbuster-and-flop" target="_blank">Quora</a>.
 
 * Flop: colelcted less than 100% of its production budget
 * Average: collected 100% to 125% of its production budget
@@ -71,7 +71,7 @@ Further analysis could yield additional insights for Microsoft:
 
 ## For more information
 
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/robertharrow/flatiron-phase-1-project/blob/main/microsoft_movie_studio_analysis.ipynb) or review [this presentation](https://github.com/robertharrow/flatiron-phase-1-project/blob/main/presentation.pdf).
 
 For additional info, contact Robert Harrow at rharrow928@gmail.com.
 
